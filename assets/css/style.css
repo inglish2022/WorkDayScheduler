@@ -5,7 +5,7 @@ body {
 }
 
 textarea{
-  /* background: transparent; */
+  background: transparent; 
   /* border: none; */
   resize: none;
   color: #000000;
@@ -48,12 +48,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #e9b4b1;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #a0bba0;
   color: white;
 }
 
