@@ -3,15 +3,18 @@
 
 Work Day Scheduler
 
+# Description
+This is a daily calendar that you can add your to do lists and appointments to!!  The past hours is in grey, the present hour is pink, and the future hours are in green.  
+
+
 ## Link
 
 [github.com/inglish2022/workDayScheduler]https://github.com/inglish2022/workDayScheduler
 
 ## Screenshot
 
-![](images/https://github.com/inglish2022/workDayScheduler/blob/feature/js/assets/images/Screenshot%20(22).png
 
-
+![AltText](assets\images\Screenshot.png)
 
 
 ##  Authors
