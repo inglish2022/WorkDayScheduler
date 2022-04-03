@@ -9,7 +9,10 @@ Work Day Scheduler
 
 ## Screenshot
 
-![Screenshot](![Screenshot (5)](https://user-images.githubusercontent.com/99756614/156835988-27c5c93f-7c3a-4bfa-b2f1-a6cbedb8493f.png))
+![](images/https://github.com/inglish2022/workDayScheduler/blob/feature/js/assets/images/Screenshot%20(22).png
+
+
+
 
 ##  Authors
 
