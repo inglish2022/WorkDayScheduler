@@ -14,7 +14,7 @@ This is a daily calendar that you can add your to do lists and appointments to!!
 ## Screenshot
 
 
-![AltText](assets\images\Screenshot.png)
+![AltText](./assets/images/Screenshot.png)
 
 
 ##  Authors
