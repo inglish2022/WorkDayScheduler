@@ -11,6 +11,7 @@ $(document).ready(function ()  {//tells engine to load 1) html & 2)css first
     })
 
     //load any saved data from LocalStorage - do this for each hour
+    $("#hour6 .toDo").val(localStorage.getItem("hour6"));
     $("#hour7 .toDo").val(localStorage.getItem("hour7"));
     $("#hour8 .toDo").val(localStorage.getItem("hour8"));
     $("#hour9 .toDo").val(localStorage.getItem("hour9"));
